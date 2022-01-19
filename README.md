@@ -82,3 +82,12 @@ Let's rewrite some tasks:
     - Write JSON parser [member: burga][priority: high]
     - Write SWTF file viewer [member: djora][priority: low]
 ```
+
+
+## Parsers
+
+Feel free to create parsers in any laguage or tool. Here is our simple parser example written in typescript:
+
+-  [swt-parser-example](./swf-parser)
+
+Official parsers for Javascript and C# comming soon... 👀
