@@ -88,6 +88,6 @@ Let's rewrite some tasks:
 
 Feel free to create parsers in any laguage or tool. Here is our simple parser example written in typescript:
 
--  [swtf-parser-example](./swtf-parser)
+-  [swtf-parser-example](./swtf-parser-example)
 
 Official parsers for Javascript and C# comming soon... 👀
