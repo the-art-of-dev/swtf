@@ -7,6 +7,17 @@
 
 > ⚠️ This project is created to meet the needs of our development team. Our main focus won't be on maintainig this project, so there are maybe better solutions to your problems.
 
+## Content
+
+- [SWTF (Simple Worklog Task Format)](#swtf-simple-worklog-task-format)
+  - [Content](#content)
+  - [Motivation](#motivation)
+  - [Rules](#rules)
+    - [Task](#task)
+    - [Attribute](#attribute)
+    - [Subtask](#subtask)
+  - [Parsers](#parsers)
+
 ## Motivation
 
 Managing small daily based tasks can be boring for developers, specialy using modern task management tools where often you have to put more effort in using a tool than focusing on task definition.
