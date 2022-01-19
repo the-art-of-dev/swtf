@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-*Simple format that sevrves it's one and only purpose and that's creating simple tasklist everywhare where you can write plain text*    
+*Simple format that sevrves it's one and only purpose and that's creating simple tasklist everywhere where you can write plain text*    
 
 > ⚠️ This project is created to meet the needs of our development team. Our main focus won't be on maintainig this project, so there are maybe better solutions to your problems.
 
@@ -11,13 +11,13 @@
 
 Managing small daily based tasks can be boring for developers, specialy using modern task management tools where often you have to put more effort in using a tool than focusing on task definition.
 
-Based on daily practice we defined format that is so simple you can use it anywhere where you can write a simple plain text. We defined simple rules that provides:
+Based on daily practice we defined a format that is so simple you can use it everywhere where you can write a simple plain text. We defined 7 simple rules(❗) that provide:
 
--  🔨  Simplicity in writing tasks - only 7 rules❗
--  ⚡  Eeasy and efficient
--  👽  Human friendly
--  🚀  Portability
--  🎱  Looks old and simple but it's cool that way
+-  🔨  Simplicity in writing tasks
+-  ⚡  Eeasy and efficient parsing
+-  👽  Human friendly format
+-  🚀  Portability to multiple platform
+-  🎱  Old and simple look but it's cool that way
 
 ## Rules
 
@@ -72,7 +72,7 @@ Subtasks extends task definition by adding ` ` or `\t` characters at the line be
 
 > *Rule no. 6❗* ***Subtasks are tasks starting with sequence of unique whitespace characters (` ` or `\t`)***
 > 
-> *Rule no. 7❗* ***Subtasks are related to frist task upper defined task with lower level of nesting***
+> *Rule no. 7❗* ***Subtasks are related to frist upper defined task with lower level of nesting***
 
 Let's rewrite some tasks:
 ```
@@ -90,4 +90,4 @@ Feel free to create parsers in any laguage or tool. Here is our simple parser ex
 
 -  [swtf-parser-example](./swtf-parser-example)
 
-Official parsers for Javascript and C# comming soon... 👀
+Official parsers for Javascript comming soon... 👀
