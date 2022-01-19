@@ -62,7 +62,7 @@ Every attribute is defined in task attributes array(at the end of the task).
 Let's rewrite some tasks:
 ```
 - My third task using SWTF and i love it 🏄
-- Define format that can be so simple and used acrossed devices [member:djora,burga,me][priority:high]
+- Define format that can be so simple and used acrossed devices [member: djora,burga,me][priority:high]
 ```
 
 
@@ -78,7 +78,7 @@ Let's rewrite some tasks:
 ```
 - My third task using SWTF and i love it 🏄
 - Define format that can be so simple and used acrossed devices:
-    - Define format rules [member:me][priority:high]
-    - Write JSON parser [member:burga][priority:high]
-    - Write SWTF file viewer [member:djora][priority:low]
+    - Define format rules [member: me][priority: high]
+    - Write JSON parser [member: burga][priority: high]
+    - Write SWTF file viewer [member: djora][priority: low]
 ```
