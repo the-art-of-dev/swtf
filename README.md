@@ -67,7 +67,7 @@ Every attribute is defined in task attributes array(at the end of the task).
 > 
 > *Rule no. 5❗* ***Attribute value is list of comma separated values(can be a single value)***
 
-- `ATTR_NAME` - any string value that doesn't containt `[`, `]` and if exists must be followed by `: `
+- `ATTR_NAME` - any string value that doesn't containt `[`, `]` and if exists must be followed by `: `.
 - `ATTR_VALUE` - any string value that doesn't containt `[` and `]`. If contains `,` character, will be treated as comma separated array of values
 
 Let's rewrite some tasks:
@@ -79,7 +79,7 @@ Let's rewrite some tasks:
 
 ### Subtask
 
-Subtasks extends task definition by adding ` ` or `\t` characters at the line begining. Number of ` ` or `\t` characters defines level of nesting.
+Subtasks extends task definition by adding whitespace characters (` ` or `\t`) at the line begining. Number of leading whitespace characters defines level of nesting.
 
 > *Rule no. 6❗* ***Subtasks are tasks starting with sequence of unique whitespace characters (` ` or `\t`)***
 > 
