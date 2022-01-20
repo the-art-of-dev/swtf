@@ -27,7 +27,7 @@ Based on daily practice we defined a format that is so simple you can use it eve
 -  🔨  Simplicity in writing tasks
 -  ⚡  Eeasy and efficient parsing
 -  👽  Human friendly format
--  🚀  Portability to multiple platform
+-  🚀  Portability to multiple platforms
 -  🎱  Old and simple look but it's cool that way
 
 ## Rules
