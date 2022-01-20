@@ -1,7 +1,8 @@
 # SWTF (Simple Worklog Task Format)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="./logo.png" width="220" height="50" style="margin-bottom:20px;">
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 *Simple format that serves it's one and only purpose and that's creating simple task list everywhere where you can write plain text*    
 
