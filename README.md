@@ -6,7 +6,7 @@
 
 *Simple format that serves it's one and only purpose and that's creating simple task list everywhere where you can write plain text*    
 
-> ⚠️ This project is created to meet the needs of our development team. Our main focus won't be on maintainig this project, so there are maybe better solutions to your problems.
+> ⚠️ This project is created to meet the needs of our development team. Our main focus won't be on maintainig this project.
 
 ## Content
 
