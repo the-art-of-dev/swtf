@@ -17,6 +17,7 @@
     - [Attribute](#attribute)
     - [Subtask](#subtask)
   - [Parsers](#parsers)
+    - [Official parsers](#official-parsers)
 
 ## Motivation
 
@@ -101,4 +102,6 @@ Feel free to create parsers in any laguage or tool. Here is our simple parser ex
 
 -  [swtf-parser-example](./swtf-parser-example)
 
-Official parsers for Javascript comming soon... 👀
+### Official parsers
+
+- [swtf-parser](https://github.com/the-art-of-dev/swtf-parser) - Javascript SWTF parser (👀 <span style="color:#ff3068">*currently under development*</span>)
