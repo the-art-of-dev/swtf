@@ -17,8 +17,8 @@
     - [Task](#task)
     - [Attribute](#attribute)
     - [Subtask](#subtask)
-  - [Parsers](#parsers)
-    - [Official parsers](#official-parsers)
+  - [Tools](#tools)
+  - [Contribution](#contribution)
 
 ## Motivation
 
@@ -96,13 +96,16 @@ Let's rewrite some tasks:
     - Write SWTF file viewer [member: djora][priority: low]
 ```
 
+## Tools
 
-## Parsers
+Checkout our tools 👀:
 
-Feel free to create parsers in any laguage or tool. Here is our simple parser example written in typescript:
+- [swtf-parser](https://github.com/the-art-of-dev/swtf-parser) - Javascript SWTF parser
+
+- [swtf-fmt](https://github.com/the-art-of-dev/swtf-fmt) - Javascript SWTF formatter
+
+## Contribution
+
+Feel free to create your own tools. Here is our simple parser example written in typescript:
 
 -  [swtf-parser-example](./swtf-parser-example)
-
-### Official parsers
-
-- [swtf-parser](https://github.com/the-art-of-dev/swtf-parser) - Javascript SWTF parser (👀 <span style="color:#ff3068">*currently under development*</span>)
